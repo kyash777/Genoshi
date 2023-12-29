@@ -5,14 +5,14 @@
 ##### 1)New graph and paper can be created using respective buttons.
 ##### 2)By clicking on graph or paper detail view is opened.
 
-![profile](https://github.com/kyash777/Genoshi/blob/master/images/create.png)
+![profile](https://github.com/kyash777/Genoshi/blob/master/images/profile.png)
 
 
 ### CREATE GRAPH/PAPER PAGE
 #### FEATURES
 ##### 1)User can upload photo of graph/paper with title and desc.
 
-![profile](https://github.com/kyash777/Genoshi/blob/master/images/profile.png)
+![profile](https://github.com/kyash777/Genoshi/blob/master/images/create.png)
 
 ### EDIT GRAPH/PAPER PAGE
 #### FEATURES
